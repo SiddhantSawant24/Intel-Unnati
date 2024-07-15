@@ -7,6 +7,6 @@ Execute 'Stitching.py'. In the OpenCV window press 's' to select if the match is
 
 Then convert the stitched map into .pgm file by executing 'pgm code.py'.
 
-In order to calculate Computational Latency execute 'CompLatency.py'
+In order to calculate Computational Latency execute 'CompLatency.py'.
 
-The report is named as 'Project Report.pdf'
+The report is named as 'Project Report.pdf'.
